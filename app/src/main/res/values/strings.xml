@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Toolbar_Action</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="move">move</string>
+</resources>
