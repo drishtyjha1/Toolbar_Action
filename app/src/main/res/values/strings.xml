@@ -6,4 +6,12 @@
     <string name="edit">edit</string>
     <string name="delete">delete</string>
     <string name="move">move</string>
+    <string name="profile" />
+    <string name="home" />
+    <string-array name="tab_titles"> 
+    <item>Chat</item>
+    <item>Status</item>
+    <item>Calls</item>
+    </string-array>
+
 </resources>
